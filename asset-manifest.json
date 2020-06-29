@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/the-machine-assign-app-test/static/css/main.a865722b.chunk.css",
-    "main.js": "/the-machine-assign-app-test/static/js/main.db872df3.chunk.js",
-    "main.js.map": "/the-machine-assign-app-test/static/js/main.db872df3.chunk.js.map",
+    "main.js": "/the-machine-assign-app-test/static/js/main.40364d5d.chunk.js",
+    "main.js.map": "/the-machine-assign-app-test/static/js/main.40364d5d.chunk.js.map",
     "runtime-main.js": "/the-machine-assign-app-test/static/js/runtime-main.2594bd4a.js",
     "runtime-main.js.map": "/the-machine-assign-app-test/static/js/runtime-main.2594bd4a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/the-machine-assign-app-test/static/css/2.af3c1da9.chunk.css",
     "static/js/2.88e00fe4.chunk.js": "/the-machine-assign-app-test/static/js/2.88e00fe4.chunk.js",
     "static/js/2.88e00fe4.chunk.js.map": "/the-machine-assign-app-test/static/js/2.88e00fe4.chunk.js.map",
     "index.html": "/the-machine-assign-app-test/index.html",
-    "precache-manifest.295e4322a0e1072bd0fa1951f6df51fc.js": "/the-machine-assign-app-test/precache-manifest.295e4322a0e1072bd0fa1951f6df51fc.js",
+    "precache-manifest.13eafea60112d3a037a230d130a477b8.js": "/the-machine-assign-app-test/precache-manifest.13eafea60112d3a037a230d130a477b8.js",
     "service-worker.js": "/the-machine-assign-app-test/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/the-machine-assign-app-test/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.a865722b.chunk.css.map": "/the-machine-assign-app-test/static/css/main.a865722b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.88e00fe4.chunk.js",
     "static/css/main.a865722b.chunk.css",
-    "static/js/main.db872df3.chunk.js"
+    "static/js/main.40364d5d.chunk.js"
   ]
 }
