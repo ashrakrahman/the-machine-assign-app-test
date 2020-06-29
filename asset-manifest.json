@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/the-machine-assign-app-test/static/css/main.a865722b.chunk.css",
-    "main.js": "/the-machine-assign-app-test/static/js/main.11401b6e.chunk.js",
-    "main.js.map": "/the-machine-assign-app-test/static/js/main.11401b6e.chunk.js.map",
-    "runtime-main.js": "/the-machine-assign-app-test/static/js/runtime-main.2594bd4a.js",
-    "runtime-main.js.map": "/the-machine-assign-app-test/static/js/runtime-main.2594bd4a.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/the-machine-assign-app-test/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.88e00fe4.chunk.js": "/the-machine-assign-app-test/static/js/2.88e00fe4.chunk.js",
-    "static/js/2.88e00fe4.chunk.js.map": "/the-machine-assign-app-test/static/js/2.88e00fe4.chunk.js.map",
-    "index.html": "/the-machine-assign-app-test/index.html",
-    "precache-manifest.ac662a27cb09ec29a71b801eaa92bb5f.js": "/the-machine-assign-app-test/precache-manifest.ac662a27cb09ec29a71b801eaa92bb5f.js",
-    "service-worker.js": "/the-machine-assign-app-test/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/the-machine-assign-app-test/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.a865722b.chunk.css.map": "/the-machine-assign-app-test/static/css/main.a865722b.chunk.css.map",
-    "static/js/2.88e00fe4.chunk.js.LICENSE.txt": "/the-machine-assign-app-test/static/js/2.88e00fe4.chunk.js.LICENSE.txt"
+    "main.css": "/the-machine-assign-app-test/home/static/css/main.a865722b.chunk.css",
+    "main.js": "/the-machine-assign-app-test/home/static/js/main.9fa25fe5.chunk.js",
+    "main.js.map": "/the-machine-assign-app-test/home/static/js/main.9fa25fe5.chunk.js.map",
+    "runtime-main.js": "/the-machine-assign-app-test/home/static/js/runtime-main.53b0a4a0.js",
+    "runtime-main.js.map": "/the-machine-assign-app-test/home/static/js/runtime-main.53b0a4a0.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/the-machine-assign-app-test/home/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.88e00fe4.chunk.js": "/the-machine-assign-app-test/home/static/js/2.88e00fe4.chunk.js",
+    "static/js/2.88e00fe4.chunk.js.map": "/the-machine-assign-app-test/home/static/js/2.88e00fe4.chunk.js.map",
+    "index.html": "/the-machine-assign-app-test/home/index.html",
+    "precache-manifest.51b6d870e22cf9481114b9265725dc31.js": "/the-machine-assign-app-test/home/precache-manifest.51b6d870e22cf9481114b9265725dc31.js",
+    "service-worker.js": "/the-machine-assign-app-test/home/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/the-machine-assign-app-test/home/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.a865722b.chunk.css.map": "/the-machine-assign-app-test/home/static/css/main.a865722b.chunk.css.map",
+    "static/js/2.88e00fe4.chunk.js.LICENSE.txt": "/the-machine-assign-app-test/home/static/js/2.88e00fe4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2594bd4a.js",
+    "static/js/runtime-main.53b0a4a0.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.88e00fe4.chunk.js",
     "static/css/main.a865722b.chunk.css",
-    "static/js/main.11401b6e.chunk.js"
+    "static/js/main.9fa25fe5.chunk.js"
   ]
 }
